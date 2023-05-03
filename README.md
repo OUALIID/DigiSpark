@@ -4,7 +4,7 @@
 <img src="fn/thumbnail.webp" alt="coding" width="1000px" height="200px" /></div>
 
 
-# <div align="center"><i>╔═══════ Introduction ═══════╗</i></div></h2>
+# <i><div align="center"><i>╔═══════<i color="#00979C"> Introduction <i color="#00979C">═══════╗</i></div></h2>
 <em><div align="center"> Digispark is a tiny, Arduino-compatible development board based on the ATtiny85 microcontroller. In this guide, we will cover the definition, history, technical specifications, advantages and disadvantages, programming fundamentals, understanding the ATtiny85 microcontroller, and programming languages for Digispark development.</em></div>
 
 <h2 color="#00979C"> 1. Definition of Digispark</h2>
