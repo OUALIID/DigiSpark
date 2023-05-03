@@ -25,6 +25,7 @@
 <em><div align="center"><code> The ATtiny85 microcontroller is the heart of Digispark. It is a low-power, 8-bit microcontroller with 8 KB of flash memory and 512 bytes of RAM. It has 6 I/O pins, including 3 analog pins, and it can be used for a wide range of applications, from controlling LEDs to driving motors.</code></div></eme>
 
 <h2 color="#00979C"> 7. Programming Languages for Digispark Development</h2>
-<em><div align="center"><code> In addition to the Arduino IDE, Digispark can be programmed using other programming languages, such as C, C++, Python, and Assembly. Each language has its own advantages and disadvantages, and choosing the right language depends on the complexity of your project and your programming skills.</div></em>
+<em><div align="center"><code> In addition to the Arduino IDE, Digispark can be programmed using other programming languages, such as C, C++, Python, and Assembly. Each language has its own advantages and disadvantages, and choosing the right language depends on the complexity of your project and your programming skills.</code></div></em>
+
 # <i><div align="center"><i>╚═══════ <i color="#00979C"> Conclusion <i color="#F9F9F9">═══════╝</i></div></h2>
 <em><div align="center"> <code>Digispark is a versatile, low-cost, and easy-to-use development board that is ideal for small DIY projects and wearable electronics. It uses the ATtiny85 microcontroller and can be programmed using the Arduino IDE or other programming languages. With its small size, it is perfect for beginners and advanced users alike.</code></div></em>
