@@ -10,22 +10,22 @@
 <h2 color="#00979C"> 1. Definition of Digispark</h2>
 <em><div align="center"> Digispark is a low-cost, open-source, tiny-sized development board that is used for rapid prototyping and DIY projects. It is Arduino-compatible, and it uses the ATtiny85 microcontroller.</em></div>
 
-<h2 color="#005F61"> 2. History and Development of Digispark</h2>
+<h2 color="#00979C"> 2. History and Development of Digispark</h2>
 <em><div align="center"> Digispark was developed by Erik Kettenburg, a software developer and electronics hobbyist, in 2012. He wanted to create a low-cost, easy-to-use development board that would be accessible to everyone. The first version of Digispark was based on the ATtiny45 microcontroller, and it was released as an open-source project. Later, the board was upgraded to the ATtiny85 microcontroller</em>.</div>
 
-<h2 color="#FF6347"> 3. Technical Specifications and Capabilities of Digispark</h2>
+<h2 color="#00979C"> 3. Technical Specifications and Capabilities of Digispark</h2>
 <em><div align="center"> Digispark is a small development board that measures only 1.8 cm x 2.5 cm. It is powered by a 5V USB connection, and it has 6 I/O pins, including 3 analog pins. It can be programmed using the Arduino IDE, and it can be used to control LEDs, motors, and sensors.</em></div>
 
-<h2 color="#FF6347"> 4. Advantages and Disadvantages of Using Digispark</h2>
+<h2 color="#00979C"> 4. Advantages and Disadvantages of Using Digispark</h2>
 <em><div align="center"> One of the main advantages of Digispark is its small size, which makes it ideal for small projects and wearable electronics. It is also low-cost, easy-to-use, and compatible with the Arduino IDE. However, its limited number of I/O pins and memory can be a disadvantage for more complex projects.</em></div>
 
-<h2 color="#FF6347FF6347FF6347FF6347"> 5. Digispark Programming Fundamentals</h2>
+<h2 color="#00979C"> 5. Digispark Programming Fundamentals</h2>
 <em><div align="center"> Digispark can be programmed using the Arduino IDE, which is a simple, user-friendly programming environment. It uses the C++ programming language, and it allows you to easily upload your code to the Digispark board. However, because of its limited memory, you may need to optimize your code for size.</em></div>
 
-<h2 color="#FF6347FF6347FF6347"> 6. Understanding the ATtiny85 Microcontroller</h2>
+<h2 color="#00979C"> 6. Understanding the ATtiny85 Microcontroller</h2>
 <em><div align="center"> The ATtiny85 microcontroller is the heart of Digispark. It is a low-power, 8-bit microcontroller with 8 KB of flash memory and 512 bytes of RAM. It has 6 I/O pins, including 3 analog pins, and it can be used for a wide range of applications, from controlling LEDs to driving motors.</div></eme>
 
-<h2 color="#FF6347FF6347"> 7. Programming Languages for Digispark Development</h2>
+<h2 color="#00979C"> 7. Programming Languages for Digispark Development</h2>
 <em><div align="center"> In addition to the Arduino IDE, Digispark can be programmed using other programming languages, such as C, C++, Python, and Assembly. Each language has its own advantages and disadvantages, and choosing the right language depends on the complexity of your project and your programming skills.</div></em>
 
 # <div align="center"><i>╚═══════ Conclusion ═══════╝</i></div></h2>
