@@ -28,6 +28,6 @@
 <h2 color="#00979C"> 7. Programming Languages for Digispark Development</h2>
 <em><div align="center"> In addition to the Arduino IDE, Digispark can be programmed using other programming languages, such as C, C++, Python, and Assembly. Each language has its own advantages and disadvantages, and choosing the right language depends on the complexity of your project and your programming skills.</div></em>
 
-# <div align="center"><i>╚═══════ <i color="#00979C"> Conclusion ═══════╝</i></div></h2>
+# <i><div align="center"><i>╚═══════ <i color="#00979C"> Conclusion </i color="#F9F9F9">═══════╝</i></div></h2>
 <em><div align="center"> Digispark is a versatile, low-cost, and easy-to-use development board that is ideal for small DIY projects and wearable electronics. It uses the ATtiny85 microcontroller and can be programmed using the Arduino IDE or other programming languages. With its small size, it is perfect for beginners and advanced users alike.</div></em>
 
