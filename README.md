@@ -7,7 +7,7 @@
 <h2><div align="center"><i>Introduction</i></div></h2>
 <em><div align="center"> Digispark is a tiny, Arduino-compatible development board based on the ATtiny85 microcontroller. In this guide, we will cover the definition, history, technical specifications, advantages and disadvantages, programming fundamentals, understanding the ATtiny85 microcontroller, and programming languages for Digispark development.</em></div>
 
-<h2>1. Definition of Digispark</h2>
+<h2><mark> 1 </mark> Definition of Digispark</h2>
 <em><div align="center"> Digispark is a low-cost, open-source, tiny-sized development board that is used for rapid prototyping and DIY projects. It is Arduino-compatible, and it uses the ATtiny85 microcontroller.</em></div>
 
 <h2>2. History and Development of Digispark</h2>
