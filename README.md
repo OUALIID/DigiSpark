@@ -1,5 +1,5 @@
 <div align="center">          
-<img src="fn/thumbnail.webp" alt="coding" width="900px" height="350px" /></div>
+<img src="fn/thumbnail.webp" alt="coding" width="1000px" height="200px" /></div>
 
 
 The Ultimate Guide to Understanding, Programming, and Using This Microcontroller Digispark
