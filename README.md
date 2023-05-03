@@ -1,3 +1,7 @@
+<div align="center">          
+<img src="fn/ksn.jpeg" alt="coding" width="700px" height="350px" /></div>
+
+
 The Ultimate Guide to Understanding, Programming, and Using This Microcontroller Digispark
 
 Introduction:
