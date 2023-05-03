@@ -1,3 +1,6 @@
+<h2> <div align="center">The ultimate guide to understanding how to program and use Digispark microcontroller
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"></p></div></h2>
+
 <div align="center">          
 <img src="fn/thumbnail.webp" alt="coding" width="1000px" height="200px" /></div>
 
