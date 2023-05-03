@@ -55,7 +55,8 @@ void loop() {} This line starts the loop function, which is empty in this script
 
 
 
-
+تحذير
+كل شيء في هذا المستودع مخصص للأغراض التعليمية فقط. لاحظ أنني لست مسؤولاً عن البيانات المسروقة. أنت مسؤول عن أفعالك باستخدام البرنامج النصي المطور لـ BadUSB
 
  
 
