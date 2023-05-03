@@ -1,4 +1,4 @@
-<h1><div align="center"><i>The ultimate guide to understanding how to program and use Digispark microcontroller <img src="./fn/hello.webp" width="30"></i></div></h1>
+<div align="center"><i>The ultimate guide to understanding how to program and use Digispark microcontroller <img src="./fn/hello.webp" width="30"></i></div></h1>
 
 <div align="center">          
 <img src="fn/thumbnail.webp" alt="coding" width="1000px" height="200px" /></div>
