@@ -1,3 +1,5 @@
+# This script uses the DigiKeyboard library to automate keystrokes and input text.Here is a breakdown of each line of code:
+
 <code>#include "DigiKeyboard.h"</code>
 <p>This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.</p>
 
