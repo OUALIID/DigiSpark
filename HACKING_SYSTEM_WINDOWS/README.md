@@ -54,9 +54,8 @@ void loop() {} This line starts the loop function, which is empty in this script
  
 
 
-
-تحذير
-كل شيء في هذا المستودع مخصص لأغراض تعليمية فقط انا لست مسؤولا عن اي تصرف خاطا منك. أنت مسؤول عن أفعالك باستخدام البرنامج النصي .
+# Warning 
+# Everything in this repository is intended for educational purposes only. I am not responsible for any wrong behavior on your part. You are responsible for your actions using the script.
  
 
  
