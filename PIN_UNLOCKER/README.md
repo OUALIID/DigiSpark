@@ -3,7 +3,7 @@
 The following breakdown explains each line of the script:
 
 
-```#include "DigiKeyboard.h"   // Includes the DigiKeyboard library```
+```cpp#include "DigiKeyboard.h"   // Includes the DigiKeyboard library```
 
 
 void setup() {
