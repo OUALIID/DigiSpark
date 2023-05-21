@@ -1,4 +1,5 @@
-<h2 color="#00979C"> <div align="center"><i>This script uses the DigiKeyboard library to automate keystrokes and input text.Here is a breakdown of each line of code:</i></div></h2>
+<h2 color="#00979C"> <div align="center"><i>This script uses the DigiKeyboard library to automate keystrokes and input text
+  Here is a breakdown of each line of code:</i></div></h2>
 <h2 color="#00979C"> 1. Definition of Digispark</h2>
 
 <code>#include "DigiKeyboard.h"</code>
