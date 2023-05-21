@@ -55,7 +55,7 @@ void loop() {} This line starts the loop function, which is empty in this script
 
 
 # Warning 
-Everything in this repository is intended for educational purposes only. I am not responsible for any wrong behavior on your part. You are responsible for your actions using the script.
+<em>Everything in this repository is intended for educational purposes only. I am not responsible for any wrong behavior on your part. You are responsible for your actions using the script.</em>
  
 
  
