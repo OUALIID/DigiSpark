@@ -1,4 +1,4 @@
-<h2 color="#00979C"> <div align="center"><i>This script uses the DigiKeyboard library to automate keystrokes and input text Here is a breakdown of each line of code:</i></div></h2>
+<h2> <div align="center"><i>This script uses the DigiKeyboard library to automate keystrokes and input text Here is a breakdown of each line of code:</i></div></h2>
 
 <code color="#00979C">#include "DigiKeyboard.h"</code>
 <p><em>This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.<em></p>
