@@ -5,7 +5,7 @@
 <em>```This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.```<em>
 
 <code color="#00979C">void setup(){</code>
-<p>This marks the beginning of the setup() function, which is a special function in Arduino that is called once when the board is powered on or reset.</p>
+<i>This marks the beginning of the setup() function, which is a special function in Arduino that is called once when the board is powered on or reset.</i>
 
 <code color="#00979C">DigiKeyboard.delay(1000);</code>
 <em><p>This line introduces a delay of 1000 milliseconds (1 second) in the program execution.</p><em>
