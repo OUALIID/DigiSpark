@@ -2,13 +2,13 @@
 
 <code color="#00979C">#include "DigiKeyboard.h"</code>
 
-```This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.```
+<em>```This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.```<em>
 
 <code color="#00979C">void setup(){</code>
 <p>This marks the beginning of the setup() function, which is a special function in Arduino that is called once when the board is powered on or reset.</p>
 
 <code color="#00979C">DigiKeyboard.delay(1000);</code>
-<p>This line introduces a delay of 1000 milliseconds (1 second) in the program execution.</p>
+<em><p>This line introduces a delay of 1000 milliseconds (1 second) in the program execution.</p><em>
 
 <code color="#00979C">DigiKeyboard.sendKeyStroke(KEY_S, MOD_GUI_LEFT);</code>
 <p>This line simulates pressing the 'S' key along with the left GUI (Windows key) modifier using the sendKeyStroke() function.</p>
