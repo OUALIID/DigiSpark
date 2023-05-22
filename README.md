@@ -1,7 +1,7 @@
 <h1><div align="center"><i>The ultimate guide to understanding how to program and use Digispark microcontroller<img src="./PICS/hello.webp" width="30"></i></div></h1>
 
 <div align="center">          
-<img src="PICS/thumbnail.webp" alt="coding" width="1000px" height="200px" /></div>
+<img src="PICS/ARDUINO.webp" alt="coding" width="1000px" height="200px" /></div>
 
 # <i><div align="center"><i>╔═══════<i color="#00979C"> Introduction <i color="#F9F9F9"> ═══════╗</i></div>
 <em><div align="center"><code>Digispark is a tiny, Arduino-compatible development board based on the ATtiny85 microcontroller. In this guide, we will cover the definition, history, technical specifications, advantages and disadvantages, programming fundamentals, understanding the ATtiny85 microcontroller, and programming languages for Digispark development.</code></em></div>
