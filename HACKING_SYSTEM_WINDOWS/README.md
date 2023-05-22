@@ -1,7 +1,6 @@
 <h2> <div align="center"><i>This script uses the DigiKeyboard library to automate keystrokes and input text Here is a breakdown of each line of code:</i></div></h2>
 
-<code color="#00979C">"#include "DigiKeyboard.h"</code>
-<em><div><code>This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.</code></em></div>
+<code color="#00979C">"#include "DigiKeyboard.h"</code> => <code>This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard."</code>
 
 <code color="#00979C">void setup(){</code>
 <em><div><code>This marks the beginning of the setup() function, which is a special function in Arduino that is called once when the board is powered on or reset.</code></em></div>
