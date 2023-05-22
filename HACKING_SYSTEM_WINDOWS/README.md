@@ -2,7 +2,7 @@
 
 <code color="#00979C">#include "DigiKeyboard.h"</code>
 
-<i>```This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.```</i>
+```<i>This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.</i>```
 
 <code color="#00979C">void setup(){</code>
   
