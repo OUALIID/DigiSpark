@@ -2,7 +2,7 @@
 
 <code color="#00979C">#include "DigiKeyboard.h"</code>
 
-```<p>This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.</p>```
+```This line includes the header file "DigiKeyboard.h," which provides the necessary definitions and functions for interacting with the DigiKeyboard.```
 
 <code color="#00979C">void setup(){</code>
 <p>This marks the beginning of the setup() function, which is a special function in Arduino that is called once when the board is powered on or reset.</p>
